@@ -1,0 +1,22 @@
+[
+  {
+    "pregunta": "¿Qué hace el parámetro exist_ok de Path.mkdir?",
+    "documento_id_esperado": "pathlib.md"
+  },
+  {
+    "pregunta": "¿Cómo evito que json.dumps escape caracteres como la ñ?",
+    "documento_id_esperado": "json.md"
+  },
+  {
+    "pregunta": "¿Por qué una segunda llamada a basicConfig no cambia la configuración del logging?",
+    "documento_id_esperado": "logging.md"
+  },
+  {
+    "pregunta": "¿Qué estructura conviene para una cola con inserciones y extracciones rápidas en ambos extremos?",
+    "documento_id_esperado": "collections.md"
+  },
+  {
+    "pregunta": "¿Qué reemplaza a utcnow desde Python 3.12?",
+    "documento_id_esperado": "datetime.md"
+  }
+]
